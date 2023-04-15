@@ -1,0 +1,52 @@
+.head {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h3{
+    font-weight: 700;
+    font-size: 14px;
+}
+.wrapper {
+  width: 457px;
+  height: 400px;
+  border-radius: 30px;
+  background-color: white;
+  color: black;
+  padding: 88px 0 0 93px;
+}
+.validate {
+    max-width: 273px;
+}
+.inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 30px;
+    height: 100px;
+}
+.input {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 100%;
+    background-color: #F8F1FF;
+    padding-left: 16px;
+    font-size: 12px;
+    border-radius: 7px;
+}
+
+.btnOpen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    background-color: #985ACE;
+    height: 40px;
+    border-radius: 7px;
+    color: white;
+    width: 100%;
+}
+
